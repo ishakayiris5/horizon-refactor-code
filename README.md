@@ -11,7 +11,7 @@ the purpose of this project was to take unsemantic HTML elements and refactor th
 
 ## Usage
 
-add some screenshots of the deployed application. from files into the images folder. then add ![alt text](the path to that fikle so assets images then the file)
+![screenshot of deployed application](./assets/images/screencapture-ishakayiris5-github-io-horizon-refactor-code-2023-11-14-22_00_02.png)
 
 ## Credits
 
